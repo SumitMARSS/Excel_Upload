@@ -1,0 +1,11 @@
+.upload-form {
+    text-align: center;
+    margin: 20px;
+}
+.upload-form input {
+    margin: 10px;
+}
+.upload-form button {
+    padding: 5px 10px;
+    margin: 10px;
+}
